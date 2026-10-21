@@ -1,6 +1,5 @@
-# Personal site (repo: deentong)
+# deentong (moved)
 
-Live at https://tde-deentong.github.io/deentong/
+This page redirects to the personal site at https://tde-deentong.github.io/, which is built from the `tde-deentong.github.io` repo.
 
-Edit `index.html`: your name, About text, GitHub, LinkedIn and email.
-The course links point to the sibling study notes site at `../study-notes/`, so that repo must be named `study-notes`.
+`index.html` only holds the redirect. Make site changes in `tde-deentong.github.io` instead.
